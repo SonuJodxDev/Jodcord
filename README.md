@@ -9,7 +9,7 @@ Welcome to Jodcord! By accessing or using the Tegera app, you agree to comply wi
 
 4. Respectful Behavior and ConductYou agree to use Jodcord in a respectful and responsible manner. This means you may not:Harass, abuse, threaten, or impersonate others.Share or promote content that is harmful, violent, abusive, or illegal.Engage in hate speech, discrimination, or any form of bullying.
 
-5. Prohibited Content and Activity You must not:Share any content that is illegal, sexually explicit, or otherwise violates any laws.Upload viruses, malware, or other malicious software.Attempt to exploit or hack the platform.Use Jodcord for spamming, phishing, or sending unsolicited messages.
+5. Prohibited Content and Activity You must not:Share any content that is illegal, sexually explicit, or otherwise violates any laws.Upload viruses, malware, or other malicious software.Attempt to exploit or hack the platform.Use Tegera for spamming, phishing, or sending unsolicited messages.
 
 6. Privacy and Account SecurityYou are responsible for the security of your account. Do not share your password or allow others to access your account. If you believe your account has been compromised, notify us immediately at
 
